@@ -5,21 +5,21 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creation", "Creation", "{8DE66501-06C7-4A23-BAB0-124A57B00F35}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "Creation\FactoryMethod\FactoryMethod\FactoryMethod.csproj", "{4303E663-2534-47CC-9AF5-A6FF274297B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "Creation\FactoryMethod\FactoryMethod.csproj", "{4303E663-2534-47CC-9AF5-A6FF274297B5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "Creation\AbstractFactory\AbstractFactory\AbstractFactory.csproj", "{BEC3C912-F443-4271-AEA8-E2808921C8B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "Creation\AbstractFactory\AbstractFactory.csproj", "{BEC3C912-F443-4271-AEA8-E2808921C8B8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Creation\Singleton\Singleton\Singleton.csproj", "{FEC607F1-B8D7-4FED-9C4B-C288375D6FBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Creation\Singleton\Singleton.csproj", "{FEC607F1-B8D7-4FED-9C4B-C288375D6FBB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Creation\Builder\Builder\Builder.csproj", "{28A2723A-0301-4F7F-B48F-05FFE1755C9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Creation\Builder\Builder.csproj", "{28A2723A-0301-4F7F-B48F-05FFE1755C9D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Creation\Prototype\Prototype\Prototype.csproj", "{187117C7-3929-46D6-80BC-A63D0583A520}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Creation\Prototype\Prototype.csproj", "{187117C7-3929-46D6-80BC-A63D0583A520}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structure", "Structure", "{C2035995-DFD1-4723-98A2-6DE71E6A06DB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Structure\Adapter\Adapter.csproj", "{A5A15E89-18B4-4F95-9255-E9D85897F873}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flyweight", "Structure\Flyweight\Flyweight\Flyweight.csproj", "{A941AE81-B382-4768-88FC-6D3EE5469740}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flyweight", "Structure\Flyweight\Flyweight.csproj", "{A941AE81-B382-4768-88FC-6D3EE5469740}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "Structure\Bridge\Bridge.csproj", "{D411407F-BF6A-477A-96CB-C64EBFE68EEE}"
 EndProject
